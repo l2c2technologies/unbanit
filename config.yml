@@ -1,0 +1,16 @@
+---
+# Telegram IDs to access IP unban feature
+tele_token: 123456789:ABC1234Efgh5678IJKlmnOpQrStUvWxYz
+allowed_id: 
+  - 1234567890
+  - 0123456789
+log_rotate: 10
+jail_name: <jailname>
+instances:
+  - example:
+      name: Example Institution
+      user: Example user
+      wapp: 1111100000
+      t_id: 1234567890
+      stat: active
+      d_on: 2025-01-04 11:24:39
